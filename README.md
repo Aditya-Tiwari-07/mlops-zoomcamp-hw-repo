@@ -1,3 +1,3 @@
-# mlops-zoomcamp-repo
+# MLOps-Zoomcamp-HW-Repo
 
 Repository for MLOps Zoomcamp Homeworks.
