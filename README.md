@@ -1,4 +1,3 @@
 # mlops-zoomcamp-repo
-Repository for MLOps Zoomcamp Projects.
 
-Yay!
+Repository for MLOps Zoomcamp Homeworks.
